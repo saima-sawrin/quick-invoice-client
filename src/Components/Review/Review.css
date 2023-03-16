@@ -1,0 +1,7 @@
+.invoice{
+    background-image: url('../../Asset//flip-card.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    backface-visibility: visible;
+ 
+}
